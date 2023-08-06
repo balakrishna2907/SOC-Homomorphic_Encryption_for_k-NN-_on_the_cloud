@@ -28,3 +28,4 @@ sage query_user.sage
 The cloud server will ask for "k" the number of nearest indices to be sent to query_user and the latter will print this indices.
 ### Common errors 
 Socket Already in use a common error that occurs while running data_owner.sage or cloud_server.sage.Simply change the Socket numbers in the required codes.
+Sometimes data_owner.sage shows another error due to other sockets running and unusal transer of data, kindly restart the running process again.
