@@ -29,3 +29,5 @@ The cloud server will ask for "k" the number of nearest indices to be sent to qu
 ### Common errors 
 Socket Already in use a common error that occurs while running data_owner.sage or cloud_server.sage.Simply change the Socket numbers in the required codes.
 Sometimes data_owner.sage shows another error due to other sockets running and unusal transer of data, kindly restart the running process again.
+### Regarding query list input
+In the code of query_user.sage I've generated random numbers in range [0,10], if you want to give it as input please open quer_user.py and go to 136 and 137 line of the code and write the replace the lines with "integers = [1,5,..(50 elements)]" try to keep the elements in range [1,10] for better results.
