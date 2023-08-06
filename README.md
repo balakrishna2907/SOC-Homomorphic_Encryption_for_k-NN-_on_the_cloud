@@ -8,8 +8,8 @@ This project is an implementation of [paper](https://www.sciencedirect.com/scien
 If sage is not installed, [look_here](https://doc.sagemath.org/html/en/installation/index.html)
 
 ### Files
-There are three files data_gen.py, cloud_server.sage, data_owner.sage, query_user.sage
-### Commands  to be run
+There are four files data_gen.py, cloud_server.sage, data_owner.sage, query_user.sage
+### Commands  to be run (in the same order)
 
 
 ```bash
